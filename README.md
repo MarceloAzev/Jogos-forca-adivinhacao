@@ -1,6 +1,8 @@
 ﻿# Jogos-forca-adivinhacao
 Jogo de adivinhação e da forca
 
+OBS: Jogo da forca não está implementado ainda.
+
 #Ferramenta
 - Python
 
