@@ -1,7 +1,7 @@
 ﻿# Jogos-forca-adivinhacao
 Jogo de adivinhação e da forca
 
-#Ferrameta
+#Ferramenta
 - Python
 
 #Imagens
