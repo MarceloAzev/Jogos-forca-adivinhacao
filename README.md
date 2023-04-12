@@ -1,5 +1,5 @@
 ﻿# Jogos-forca-adivinhacao
-Projeto para criação de jogo de adivinha e forca
+Jogo de adivinhação e da forca
 
 #Ferrameta
 - Python
